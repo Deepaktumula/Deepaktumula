@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tumula Deepak</h1>
 <h3 align="center">A passionate frontend developer and programmer from Odisha, India.</h3>
 
-- 🔭 I’m currently working on **Ecommerce Website**
+- 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Node Js**
 
 - 👯 Projects I have worked on. [Weather App](https://deepaktumula.github.io/WeatherApp/)
 
