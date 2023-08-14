@@ -1,9 +1,34 @@
 <h1 align="center">Hi 👋, I'm Tumula Deepak</h1>
-<h3 align="center">A passionate frontend developer and programmer from, India.</h3>
+<p align="left">I'm a recent Computer Science graduate with a passion for programming and web development. I'm proficient in various technologies including C++, Java, MySQL, HTML, CSS, Tailwind CSS, JavaScript, and React.js. I enjoy building creative and functional web applications that solve real-world problems.
+<p align="left">
+- 🎓 Graduated in 2023 with a degree in Computer Science.
+</p>
+<p align="left">
+- 💻 Currently exploring new opportunities and working on personal projects.
+</p>
+<p align="left">
+- 🌱 I'm constantly learning and improving my skills to stay up-to-date with the latest technologies.
+</p>
+<p align="left">
+- 🚀 I love collaborating on projects and contributing to open-source communities.
+</p>
+  
+  ### Technologies I'm familiar with:
+- Programming Languages: C++, Java, JavaScript 
+- Frontend: HTML, CSS, Tailwind CSS, React.js
+- Backend: MySQL
+- Tools: Git
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaktumula&label=Profile%20views&color=0e75b6&style=flat" alt="deepaktumula" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepaktumula" alt="deepaktumula" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/deepaks18401359" target="blank"><img src="https://img.shields.io/twitter/follow/deepaks18401359?logo=twitter&style=for-the-badge" alt="deepaks18401359" /></a> </p>
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **React Js**
 
 - 👯 Projects I have worked on. [Weather App](https://deepaktumula.github.io/WeatherApp/)
 
@@ -11,7 +36,7 @@
 
 - 👨‍💻 All of my projects are available at [https://deepaktumula.github.io/DeepakPortfolio/](https://deepaktumula.github.io/DeepakPortfolio/)
 
-- 💬 Ask me about **C++, Java, MySQL, HTML, Css, TailwindCss, JavaScript, ReactJs.**
+- 💬 Ask me about **anything I am happy.**
 
 - 📫 How to reach me **saideepak.tumula@gmail.com**
 
@@ -19,7 +44,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/deepaks18401359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepaks18401359" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tumula-deepak-53b529246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tumula-deepak-53b529246" height="30" width="40" /></a>
+<a href="https://instagram.com/__saideepak__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__saideepak__" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tumuladeepak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tumuladeepak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,3 +65,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaktumula&show_icons=true&locale=en&layout=compact" alt="deepaktumula" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepaktumula&show_icons=true&locale=en" alt="deepaktumula" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaktumula&" alt="deepaktumula" /></p>
