@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Full Stack Java**
 
 - 👯 Projects I have worked on. [Weather App](https://deepaktumula.github.io/WeatherApp/)
 
