@@ -15,8 +15,9 @@
   
   ### Technologies I'm familiar with:
 - Programming Languages: C++, Java, JavaScript 
-- Frontend: HTML, CSS, Tailwind CSS, React.js
-- Backend: MySQL
+- Frontend: HTML, CSS, Tailwind CSS, Vue Js, Angular, Basic React Js
+- Backend: Spring, Spring Boot
+- Middlewares - MySQL
 - Tools: Git
 </p>
 
@@ -26,9 +27,9 @@
 
 <p align="left"> <a href="https://twitter.com/tumula_deepak" target="blank"><img src="https://img.shields.io/twitter/follow/tumula_deepak?logo=twitter&style=for-the-badge" alt="tumula_deepak" /></a> </p>
 
-- 🔭 I’m currently working on **MERN STACK**
+- 🔭 I have knowledge on **MERN STACK**
 
-- 🌱 I’m currently learning **Full Stack Java**
+- 🌱 I worked on **Full Stack Java**
 
 - 👯 Projects I have worked on. [Weather App](https://deepaktumula.github.io/WeatherApp/)
 
