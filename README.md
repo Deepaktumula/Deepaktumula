@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tumula Deepak</h1>
-<p align="justify">I'm a recent Computer Science graduate with a passion for programming and web development. I'm proficient in various technologies including C++, Java, MySQL, HTML, CSS, Tailwind CSS, JavaScript, and React.js. I enjoy building creative and functional web applications that solve real-world problems.
+<p align="justify">I'm a recent Computer Science graduate with a passion for programming and web development. I'm proficient in various technologies including Java, Spring, Spring Boot, MySQL, HTML, CSS, Tailwind CSS, JavaScript, and React.js. I enjoy building creative and functional web applications that solve real-world problems.
 <p align="left">
 - 🎓 Graduated in 2023 with a degree in Computer Science.
 </p>
@@ -14,7 +14,7 @@
 </p>
   
   ### Technologies I'm familiar with:
-- Programming Languages: C++, Java, JavaScript 
+- Programming Languages: Java, JavaScript 
 - Frontend: HTML, CSS, Tailwind CSS, Vue Js, Angular, Basic React Js
 - Backend: Spring, Spring Boot
 - Middlewares - MySQL
